@@ -1,9 +1,9 @@
 const firebaseConfig = {
-    apiKey: "AIzaSyAFYJQT9oGY6BVHsYNv_Ek3YYn8S3h8PME",
-    authDomain: "cruise-ship-fd953.firebaseapp.com",
-    projectId: "cruise-ship-fd953",
-    storageBucket: "cruise-ship-fd953.appspot.com",
-    messagingSenderId: "950924924649",
-    appId: "1:950924924649:web:4005d79629b5d6fbb60278"
-  };
+  apiKey: "AIzaSyByLw1Hu8pUyOfFjknBgGhlkNBX2UtnEgo",
+  authDomain: "cruise-ship-website.firebaseapp.com",
+  projectId: "cruise-ship-website",
+  storageBucket: "cruise-ship-website.appspot.com",
+  messagingSenderId: "115281533173",
+  appId: "1:115281533173:web:fb3565417faaf943f74dbc"
+};
 export default firebaseConfig;
